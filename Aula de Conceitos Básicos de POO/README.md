@@ -13,7 +13,7 @@ Principais Conceitos de POO:
 Programação em Java:
 
 *Estrutura Básica: Para que um programa Java seja executável, ele precisa de um método main como ponto de entrada. A estrutura obrigatória deste método é: 
-** public static void main(String[] args) { }.
+- public static void main(String[] args) { }.
 * Nomenclatura: Boas práticas incluem iniciar nomes de classes com letra maiúscula e nomes de métodos e atributos com letra minúscula.
 * Escopo: Java possui regras que determinam onde variáveis e métodos podem ser acessados, existindo o escopo de classe, de método e de parte de um método.
 * Arquivos Fonte: O código-fonte Java é salvo em arquivos com a extensão .java, e o nome do arquivo deve ser igual ao nome da classe pública que ele contém.
