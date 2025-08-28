@@ -24,3 +24,15 @@ O documento apresenta os conceitos básicos de Programação Orientada a Objetos
 
 * **UML:** A Linguagem de Modelagem Unificada (UML) é mencionada como uma ferramenta para representar visualmente classes, atributos e métodos.
 * **Atividades:** O documento indica que haverá atividades em sala de aula e fornece um e-mail para o envio das respostas.
+
+# Documentação do Código: **`Carro.java`**
+
+## 1 - Descrição Geral
+
+ A classe `Carro` representa a entidade de um veículo e armazena suas informações básicas, como Renavam, placa, modelo e ano de fabricação. Além de armazenar os dados, a classe oferece funcionalidades para exibir essas informações e verificar se o veículo é considerado antigo com base no seu ano.
+
+## 2 - Requisitos para Desenvolvimento
+
+* Sistema Operacional: Windows
+* Versão Java: v24
+* Aplicativo utilizado: Visual Studio
